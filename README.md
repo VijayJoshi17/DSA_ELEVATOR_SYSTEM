@@ -46,17 +46,3 @@ The Elevator Management System is a simple console-based application written in 
    ```sh
    ./elevator
    
-3. **Follow Prompts**: Enter the building height, the initial position of the elevator, and follow the on-screen instructions to simulate the elevator operations.
-
-   ----------------------Elevator Management System------------------------
-Enter the height of the building and position of the lift 10 0
-
--------------- FLOOR 0 -------------
-People in lift : 0
-Enter the number of people who want to enter the lift:
-5
-Person 1 - Enter the floor where you would like to go: 3
-Person 2 - Enter the floor where you would like to go: 5
-
-The elevator's maximum capacity is 10 people. If this limit is reached, it will skip stopping at new floors until there is room.
-The program uses a simple linked list to manage floor requests.
